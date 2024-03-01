@@ -28,4 +28,6 @@ public class StarterPlugin extends BasePlugin {
     public void stop() {
         System.out.println("插件停止！");
     }
+
+
 }
